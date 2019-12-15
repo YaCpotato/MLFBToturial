@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "機械学習とは何か": ["doc1","doc2"],
+    "回帰分析": ["doc2"],
+    "画像分類": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
