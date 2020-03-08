@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Machine Learning for Begineers!', // Title for your website.
+  title: 'マジで掘り下げる人工知能ドキュメント', // Title for your website.
   tagline: 'Official Website',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -30,8 +30,8 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'machine-learning-tutorial',
-  organizationName: 'Machine Learning for Begineers!',
+  projectName: 'artifical-intelligence-tutorial',
+  organizationName: 'Yasshieeee',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
