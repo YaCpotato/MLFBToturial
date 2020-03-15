@@ -64,6 +64,7 @@ class HomeSplash extends React.Component {
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
             <Button href={docUrl('ai_history/ai_history.html')}>人工知能の歴史</Button>
+            <Button href={docUrl('algorithm/algorithm.html')}>機械学習の手法</Button>
             <Button href={docUrl('machine_learning_for_table_data.html')}>テーブルデータ</Button>
             <Button href={docUrl('machine_learning_for_image.html')}>画像</Button>
             <Button href={docUrl('machine_learning_for_nlb.html')}>自然言語</Button>
