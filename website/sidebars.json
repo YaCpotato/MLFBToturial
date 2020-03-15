@@ -1,5 +1,8 @@
 {
   "docs": {
+      "人工知能の歴史": [
+        "ai_history/ai_history"
+      ],
       "アルゴリズム": [
         "algorithm/00_algorithm",
         "algorithm/01_linear_regression",
