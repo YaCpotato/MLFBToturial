@@ -1,6 +1,7 @@
 {
   "docs": {
       "アルゴリズム": [
+        "algorithm/00_algorithm",
         "algorithm/01_linear_regression",
         "algorithm/02_logistic_regression",
         "algorithm/03_ridge_regression",
@@ -18,8 +19,15 @@
         "algorithm/15_nmf",
         "algorithm/16_lda",
         "algorithm/17_k_means",
-        "algorithm/18_k_nn",
-        "algorithm/algorithm"
+        "algorithm/18_k_nn"
+      ],
+      "活性化関数": [
+        "activation_function/00_activation_function",
+        "activation_function/01_step",
+        "activation_function/02_sigmoid",
+        "activation_function/03_tanh",
+        "activation_function/04_softmax",
+        "activation_function/05_reru"
       ]
     }
 }
