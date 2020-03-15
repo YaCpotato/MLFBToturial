@@ -28,6 +28,14 @@
         "activation_function/03_tanh",
         "activation_function/04_softmax",
         "activation_function/05_reru"
+      ],
+      "損失関数": [
+        "loss_function/00_loss_function",
+        "loss_function/01_mean_squared_error",
+        "loss_function/02_mean_absolute_error",
+        "loss_function/03_mean_squared_logarithmic_error",
+        "loss_function/04_kullback_leibler_divergence",
+        "loss_function/05_cross_entropy"
       ]
     }
 }
