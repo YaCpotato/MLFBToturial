@@ -6,7 +6,7 @@
         "algorithm/03_ridge_regression",
         "algorithm/04_lasso_regression",
         "algorithm/05_support_vector_machine_1",
-        "algorithm/06_support_vector_mashine_2",
+        "algorithm/06_support_vector_machine_2",
         "algorithm/07_naive_bayes",
         "algorithm/08_random_forest",
         "algorithm/09_neural_network",
